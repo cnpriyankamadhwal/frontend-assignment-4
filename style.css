@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: math;
+}
+body{
+    background-color: white;
+}
+.wrap{
+    margin: 0px 280px;
+    padding: 20px;
+    background-color: #f7f4f4;
+}
+
+/* HEADER */
+header{
+    background-color: #34db34;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+header h1{
+    margin-bottom: 10px;
+}
+
+/* ABOUT ME */
+
+.about-me{
+    display: inline-block;
+}
+img{
+    margin-top: 10px;
+    height: 100px;
+    width: 125px;
+}
+
+.about{
+    margin: -103px 0px 0px 179px;
+}
+.about h2{
+    margin-bottom: 10px;
+}
+/* COURSES COMPLETED */
+.course-completed h2{
+    margin: 38px 0px 15px 25px;
+}
+
+
+.box-1{
+    margin: 0px 625px 0px 0px;
+    padding: 17px 17px 17px 17px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color:#e3dede; 
+}
+
+.box-1 p{
+    margin-top: 7px;
+}
+.box-2{
+    margin: -116px 296px 0px 310px;
+    padding: 17px 17px 17px 17px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color:#e3dede; 
+}
+
+.box-2 p{
+    margin-top: 7px;
+}
+.box-3{
+    margin: -116px 0px 0px 640px;
+    padding: 17px 17px 17px 17px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color:#e3dede; 
+}
+
+.box-3 p{
+    margin-top: 7px;
+}
+/* STUDENT-FEEDBACK */
+
+.student-feedback h2{
+    margin: 20px ;
+}
+.box-4{
+    margin: 0px 625px 0px 1px;
+    padding: 17px 17px 17px 17px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color:#e3dede; 
+}
+
+.box-5{
+    margin: -91px 298px 0px 309px;
+    padding: 17px 17px 17px 17px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color:#e3dede; 
+}
+
+.box-6{
+    margin: -91px -2px 0px 638px;
+    padding: 17px 17px 17px 17px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color:#e3dede; 
+}
+
+/* CONTACT - FORM */
+.contact-container{
+    background-color:rgb(241, 217, 217) ;
+    margin: 20px;
+    padding: 20px;
+}
+
+form h2{
+    color: white;
+    margin-bottom: 10px;
+}
+form{
+    margin: 7px 0px 8px 606px;
+}
+
+span{
+    color: white;
+}
+
+form input{
+    width: 95%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+textarea{
+    padding: 5px;
+    margin-bottom: 5px;
+}
+button{
+    background-color: #34db34;
+    color: wheat;
+    width: 95%;
+    padding: 6px;
+}
